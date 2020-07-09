@@ -8,3 +8,5 @@ or
 ```
 npm start
 ```
+client for this server placed on
+https://github.com/KindBear/test-chekout-client
