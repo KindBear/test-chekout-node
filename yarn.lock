@@ -363,10 +363,10 @@ chalk@^3.0.0:
     ansi-styles "^4.1.0"
     supports-color "^7.1.0"
 
-checkout-sdk-node@^1.0.12:
-  version "1.0.14"
-  resolved "https://registry.yarnpkg.com/checkout-sdk-node/-/checkout-sdk-node-1.0.14.tgz#7102377fb0f6f10a0bd9445ec6838188220eca4a"
-  integrity sha512-0Kf+aIszGGc7HCfqqsPPWZ6Mh42TlQqoqP0fv9XLBl7UPQ/dyRuyUuKOunPyBk0sLRoFrCnekz+hfXuH7JuUIg==
+checkout-sdk-node@^1.0.14:
+  version "1.0.15"
+  resolved "https://registry.yarnpkg.com/checkout-sdk-node/-/checkout-sdk-node-1.0.15.tgz#6ac5ae1d066b709bdb7b27631f58b32b56e3aa45"
+  integrity sha512-fKHNWjea9fQ7sTfZs0VGJFHpVA/S7rcG34bTiKp6NyXbTVAGzfcCzqi2ZIAUod8jwwSWw5CAJs1J4qKegzxntw==
   dependencies:
     "@babel/cli" "^7.8.4"
     "@babel/plugin-transform-runtime" "^7.8.3"
@@ -437,9 +437,9 @@ clone-response@^1.0.2:
     mimic-response "^1.0.0"
 
 codecov@^3.6.2:
-  version "3.7.0"
-  resolved "https://registry.yarnpkg.com/codecov/-/codecov-3.7.0.tgz#4a09939cde24447a43f36d068e8b4e0188dc3f27"
-  integrity sha512-uIixKofG099NbUDyzRk1HdGtaG8O+PBUAg3wfmjwXw2+ek+PZp+puRvbTohqrVfuudaezivJHFgTtSC3M8MXww==
+  version "3.7.1"
+  resolved "https://registry.yarnpkg.com/codecov/-/codecov-3.7.1.tgz#434cb8d55f18ef01672e5739d3d266696bebc202"
+  integrity sha512-JHWxyPTkMLLJn9SmKJnwAnvY09kg2Os2+Ux+GG7LwZ9g8gzDDISpIN5wAsH1UBaafA/yGcd3KofMaorE8qd6Lw==
   dependencies:
     argv "0.0.2"
     ignore-walk "3.0.3"
