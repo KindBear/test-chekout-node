@@ -363,10 +363,10 @@ chalk@^3.0.0:
     ansi-styles "^4.1.0"
     supports-color "^7.1.0"
 
-checkout-sdk-node@^1.0.12:
-  version "1.0.14"
-  resolved "https://registry.yarnpkg.com/checkout-sdk-node/-/checkout-sdk-node-1.0.14.tgz#7102377fb0f6f10a0bd9445ec6838188220eca4a"
-  integrity sha512-0Kf+aIszGGc7HCfqqsPPWZ6Mh42TlQqoqP0fv9XLBl7UPQ/dyRuyUuKOunPyBk0sLRoFrCnekz+hfXuH7JuUIg==
+checkout-sdk-node@^1.0.14:
+  version "1.0.15"
+  resolved "https://registry.yarnpkg.com/checkout-sdk-node/-/checkout-sdk-node-1.0.15.tgz#6ac5ae1d066b709bdb7b27631f58b32b56e3aa45"
+  integrity sha512-fKHNWjea9fQ7sTfZs0VGJFHpVA/S7rcG34bTiKp6NyXbTVAGzfcCzqi2ZIAUod8jwwSWw5CAJs1J4qKegzxntw==
   dependencies:
     "@babel/cli" "^7.8.4"
     "@babel/plugin-transform-runtime" "^7.8.3"
@@ -1484,9 +1484,9 @@ liftoff@3.1.0:
     resolve "^1.1.7"
 
 lodash@^4.17.13, lodash@^4.17.15:
-  version "4.17.15"
-  resolved "https://registry.yarnpkg.com/lodash/-/lodash-4.17.15.tgz#b447f6670a0455bbfeedd11392eff330ea097548"
-  integrity sha512-8xOcRHvCjnocdS5cpwXQXVzmmh5e5+saE2QGoeQmbKmRS6J3VQppPOIt0MnmE+4xlZoumy0GPG0D0MVIQbNA1A==
+  version "4.17.19"
+  resolved "https://registry.yarnpkg.com/lodash/-/lodash-4.17.19.tgz#e48ddedbe30b3321783c5b4301fbd353bc1e4a4b"
+  integrity sha512-JNvd8XER9GQX0v2qJgsaN/mzFCNA5BRe/j8JN9d+tWyGLSodKQHKFicdwNYzWwI3wjRnaKPsGj1XkBjx/F96DQ==
 
 lowercase-keys@^1.0.0, lowercase-keys@^1.0.1:
   version "1.0.1"
